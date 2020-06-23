@@ -1,2 +1,2 @@
-# random_background_color
- 
+# Random Background Color
+Click a button to get a random background color
